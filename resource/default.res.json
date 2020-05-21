@@ -1,0 +1,15 @@
+{
+	"groups": [
+		{
+			"keys":"tpl_bin",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name":"tpl_bin",
+			"type":"bin",
+			"url":"config/tpl.bin"
+		}
+	]
+}
